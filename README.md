@@ -11,7 +11,7 @@ My name is Fellipe Pereira, and I am a graduate student in software engineering 
 <br>
 <a href="https://github.com/fellipepcs">
   <img width="43%" src="https://github-readme-stats.vercel.app/api?username=fellipepcs&show_icons=true&theme=dark" />
-  <img height='160em' align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellipepcs&hide=jupyter%20notebook,html&layout=compact&theme=dark" />
+  <img height='157em' align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellipepcs&hide=jupyter%20notebook,html&layout=compact&theme=dark" />
 </a>
 <br>
  
