@@ -13,7 +13,7 @@ My name is Fellipe Pereira, and I am a graduate student in software engineering 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fellipepcs&show_icons=true&theme=dark" />
   <img height='180em' align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellipepcs&hide=jupyter%20notebook,html&layout=compact&theme=dark" />
 </a>
-##
+
 <br>
  
 <div style="display: inline_block"><br>
